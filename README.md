@@ -18,4 +18,4 @@ This exploratory data analysis was conducted to provide users with a segmented a
 The files `explore.ipynb` is a Jupyter Notebook, it contains codes for cleaning and exploration of the dataset. The `covid_nigera.csv` file is a comma delimated formatted file that contains up to date cleaned dataset used in the project. The png extension files are map visualizations of cases, recoveries and deaths. Finally, the shapefile subdirectory contains geospatial SHP files used for map ploting.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-The dataset used for the exploration comes from [NCDC](https://covid19.ncdc.gov.ng/)
+The dataset used for the exploration comes from Nigeria Centre for Disease Control [NCDC](https://covid19.ncdc.gov.ng/)
