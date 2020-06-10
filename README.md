@@ -1,6 +1,6 @@
-# EDA-NMIS-Education-Facility
+# Exploratory Data Analyis of COVID-19 cases in Nigeria
 
-This projects is an exploratory data analysis of Nigeria MDGs Information System (NMIS) education facility data..
+This projects is an exploratory data analysis of Coronavirus cases in Nigeria
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -12,10 +12,10 @@ This projects is an exploratory data analysis of Nigeria MDGs Information System
 The code requires Python versions of 3.*, Jupyter Notebook web application, and general libraries available through the Anaconda package.
 
 ## Project Motivation <a name="motivation"></a>
-Besides being my first Python EDA, this EDA gives an overview of the progress, state of Nigerian educational sector and the inbalances lurking in its decades of trying to reach standard.
+This exploratory data analysis was conducted to provide users with a segmented and more understandable overveiw of COVID-19 statistics.
 
 ## File Description <a name="description"></a>
-The files `data-cleaning-exploration.py` and `data-cleaning-exploration.ipynb` are Python script and a Jupyter Notebook, they contain code for cleaning and exploration of the dataset. The `raw_data.csv` file is a comma delimated formatted file that contains the raw dataset used in the project. The file titled `data_description.txt` hightlights a brief description of attributes in the dataset. Finally, the visuals folder contains saved images of visualizations generated from the `data-cleaning-exploration.py` and `data-cleaning-exploration.ipynb` files.
+The files `explore.ipynb` is a Jupyter Notebook, it contains codes for cleaning and exploration of the dataset. The `covid_nigera.csv` file is a comma delimated formatted file that contains up to date cleaned dataset used in the project. The png extension files are map visualizations of cases, recoveries and deaths. Finally, the shapefile subdirectory contains geospatial SHP files used for map ploting.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-The dataset used for the exploration comes from [EnergyData](https://energydata.info/dataset/nigeria-nmis-education-facility-data-2014/)
+The dataset used for the exploration comes from [NCDC](https://covid19.ncdc.gov.ng/)
