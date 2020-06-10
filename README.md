@@ -1,4 +1,4 @@
-# Exploratory Data Analyis of COVID-19 cases in Nigeria
+# Exploratory Data Analysis of COVID-19 cases in Nigeria
 
 This projects is an exploratory data analysis of Coronavirus cases in Nigeria
 
